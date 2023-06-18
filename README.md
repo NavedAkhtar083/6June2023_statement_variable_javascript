@@ -1,0 +1,1 @@
+# 6June2023_statement_variable_javascript
